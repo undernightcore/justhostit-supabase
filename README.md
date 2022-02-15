@@ -1,3 +1,3 @@
 # justhostit-supabase
 
-Just Host It backend made in Supabase
+Autentificación y CRUD hecho en supabase
